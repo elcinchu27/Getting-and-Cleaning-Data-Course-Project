@@ -1,11 +1,11 @@
 # **Code Book for Getting and Cleaning Data Course Project**
 
-This code book describes the [data](##data), the [variables](##variables) and any [transformations](##transformations) that have been performed to clean up the data.
+This code book describes the [data](#data), the [variables](#variables) and any [transformations](#transformations) that have been performed to clean up the data.
 
 
 ## **Data**
 
-The `tidy_data.txt` file is a space-separated table that contains the subject, activity and name of the variables in the first row (described in the [Variables](##variables) section), and the values of all of theses variables in the following rows.
+The `tidy_data.txt` file is a space-separated table that contains the subject, activity and name of the variables in the first row (described in the [Variables](#variables) section), and the values of all of theses variables in the following rows.
 
 
 ## **Variables**
