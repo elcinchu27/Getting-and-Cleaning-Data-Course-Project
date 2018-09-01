@@ -17,7 +17,7 @@ The `run_analysis.R` R script does the following steps:
 6. Creates a second, independet tidy set with the average of each variable for each activity and each subject: loads dplyr package, groups each variable by activity and subject, amd outputs the second independent data set in the file `tidy_data_set.txt`.
 
 
-The 'tidy_data_site.txt' in this repository was created by running the `run_analysis.R` R script using R version 3.5.0 on Sierra macOS 10.12.x.
+The `tidy_data_site.txt` in this repository was created by running the `run_analysis.R` R script using R version 3.5.0 on Sierra macOS 10.12.x.
 
 This script requires the dplyr package.
 
